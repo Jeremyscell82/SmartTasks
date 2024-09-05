@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart Tasks</string>
+    <string name="home_empty_screen">No tasks for today!</string>
+    <string name="home_today">Today</string>
+    <string name="task_item_due_date">Due date</string>
+    <string name="task_item_days_left">Days left</string>
+
+    <string name="task_detail_title">Task Detail</string>
+    <string name="task_detail_resolved">Resolved</string>
+    <string name="task_detail_unresolved">Unresolved</string>
+    <string name="task_detail_act_cant_resolve">Can\'t resolve</string>
+    <string name="task_detail_act_resolve">Resolve</string>
+    <string name="task_detail_comment_title">Comments:</string>
+
+    <string name="custom_dialog_yes">Yes</string>
+    <string name="custom_dialog_no">No</string>
+    <string name="custom_dialog_title">Do you want to leave a comment?</string>
+
+    <string name="custom_input_dialog_hint">Enter your comment</string>
+    <string name="custom_input_action_btn">Save</string>
+
+</resources>
